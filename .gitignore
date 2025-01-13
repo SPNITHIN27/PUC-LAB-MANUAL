@@ -1,8 +1,0 @@
-# Ignore the git_auto_push.bat file
-upload.bat
-
-# Ignore other files or directories if needed
-*.log        # Ignore all .log files
-*.tmp        # Ignore temporary files
-.DS_Store    # Ignore Mac OS X system files
-node_modules/ # Ignore node_modules directory for a Node.js project
